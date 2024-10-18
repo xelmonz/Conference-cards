@@ -4,6 +4,8 @@ Overview:
 This project automates the creation of personalized identification cards for participants using data from an Excel file. 
 Each card features a unique QR code, along with the participant's name and organization, making it a versatile tool for conferences, events, or any gathering where participant identification is essential.
 
+This particular implementation was developed for the 2nd MOVE Symposium in Belgrade, showcasing its practical application in a real-world setting.
+
 Features:
 - Automatic QR Code Generation: Utilizes the qrcode library to create scannable QR codes based on participant information.
 - Customizable Card Design: Supports customizable front and back designs using PIL (Python Imaging Library) for a personalized touch.
